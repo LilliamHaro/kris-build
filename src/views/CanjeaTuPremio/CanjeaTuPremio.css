@@ -1,0 +1,24 @@
+.canjeaTuPremio {
+    /* background: rgb(221, 193, 160);     */
+}
+.canjeaTuPremio .flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    min-height: 100vh;   
+    flex-direction: column;
+}
+
+.canjeaTuPremio .flex-box h2  {
+    width: 370px;
+  }
+  .canjeaTuPremio .flex-box h2 img  {
+    max-width: 100%;
+  }
+  .canjeaTuPremio .flex-box .main-image{
+    text-align: center;
+  }
+  .canjeaTuPremio .flex-box .main-image img {
+    max-width: 70%;
+  }
